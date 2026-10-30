@@ -1,0 +1,6 @@
+{
+  "name": "Carousel Studio",
+  "description": "Professional social media carousel maker with bilingual English & Arabic support, 1080x1350 export, AI copywriter, and layered PSD export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
